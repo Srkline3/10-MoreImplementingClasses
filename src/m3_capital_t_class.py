@@ -317,7 +317,7 @@ class CapitalT(object):
         new_T = CapitalT(center, width, height, thickness)
         new_T.set_colors(self.h_rect.fill_color, self.h_rect.outline_color)
         return new_T
-
+        #
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # -----------------------------------------------------------------------------
